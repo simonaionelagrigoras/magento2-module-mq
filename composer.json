@@ -18,8 +18,8 @@
         "php-coveralls/php-coveralls": "~2.1.0"
     },
     "suggest": {
-        "renatocason/magento2-module-mq-mysql": "~1.1.0",
-        "renatocason/magento2-module-mq-amqp": "~1.1.0"
+        "renatocason/magento2-module-mq-mysql": "~1.2.3",
+        "renatocason/magento2-module-mq-amqp": "~1.1.3"
     },
     "type": "magento2-module",
     "license": [
